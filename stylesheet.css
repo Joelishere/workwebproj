@@ -1,9 +1,5 @@
 .main_nav{
-  display: inline-block;
-<<<<<<< HEAD
-  /*MASTER CHANGE*/
+
   background: green;
-=======
   font-size:10;
->>>>>>> refs/remotes/origin/master
 }
