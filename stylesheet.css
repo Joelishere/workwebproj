@@ -10,6 +10,7 @@
   animation-name: tester;
   animation-duration: 4s;
   animation-iteration-count: infinite;
+  /*Change on the changed branch*/
 }
 
 @keyframes tester {
